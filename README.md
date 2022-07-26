@@ -1,2 +1,2 @@
-# Python-Probelm-of-the-day
-Solve one python problem based on Data Structures and Algorithms every day and enhance your python skills.
+# Python: Problem of the day
+Solve one python problem every day and enhance your python skills.
